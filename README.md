@@ -3,5 +3,12 @@
 
 The purpose of this project was to explore steamlit applications for the displayment of classifier models. 
 
-I used a number of different datasets to explore:
+### I used a number of different datasets to explore:
+- Iris 
+- Breast cancer
+- Wine
+
+### The models used were:
+- KNN
+- MLP
 - 

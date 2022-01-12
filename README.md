@@ -11,4 +11,8 @@ The purpose of this project was to explore steamlit applications for the display
 ### The models used were:
 - KNN
 - MLP
-- 
+- SVM
+- Random Forest
+
+### Hyperparameter
+The application also allowed for hyperparameter tunining, like adjusting the learning rate

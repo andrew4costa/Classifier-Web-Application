@@ -1,9 +1,9 @@
 # Classifier-Web-Application
 
 
-The purpose of this project was to explore steamlit applications for the displayment of classifier models. 
+The purpose of this project was to explore steamlit applications for the deployment of classifier models. 
 
-### I used a number of different datasets to explore:
+### I used a number of different datasets for this exploration:
 - Iris 
 - Breast cancer
 - Wine
